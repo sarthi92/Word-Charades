@@ -1,0 +1,15 @@
+External Sources------------------------------------------------------------------
+1) Right Symbol (rsign.png) : www.shutterstock.com (Modified)
+2) Wrong Symbol (wsign.png): www.shutterstock.com (Modified)
+3) rsound.wav, wsound.wav, win.wav, lose.wav: Microsoft Windows 7 System Sounds
+4) paper.jpg: texturefabrik.com
+...
+Ver:
+2016.01.26
+
+Created by:
+Sarthi Chugh
+sarchugh123@gmail.com
+
+(C)Cosmik|2016 
+Submission for HackerEarth
