@@ -241,6 +241,7 @@ function spgo(){
         document.getElementById(String.fromCharCode(i)).className="alpha";
     } 
     lifeline.innerHTML="LIFE: "+life.toString();
+    result.innerHTML="";
 }
 function mpgo(){
     life=max;
@@ -268,6 +269,7 @@ function mpgo(){
         document.getElementById(String.fromCharCode(i)).className="alpha";
     } 
     lifeline.innerHTML="LIFE: "+life.toString();
+    result.innerHTML="";
 }
 function insgo(){
     genState(3);
