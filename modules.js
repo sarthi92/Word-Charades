@@ -68,7 +68,7 @@ function returnResult(val)
           for(i=65;i<=90;++i){
               for(j=0;j<str2.length;++j)
                   {
-                if(String.fromCharCode(i)==str2[j]){break;}
+                if(String.fromCharCode(i)==str2[j].toUpperCase()){break;}
                   }
              if(j==str2.length)
              { document.getElementById(String.fromCharCode(i)).className="adisa";
